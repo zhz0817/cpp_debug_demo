@@ -1,0 +1,7 @@
+{      
+    // "clang-format.executable": "D:/LLVM/bin/clang-format.exe",
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    
+}
